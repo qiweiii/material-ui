@@ -1,6 +1,6 @@
 export { default } from './InputAdornmentUnstyled';
 export * from './InputAdornmentUnstyled';
-export { default as useInputAdornment } from './useInputAdornment';
-export * from './useInputAdornment';
+export { default as InputAdornmentProps } from './InputAdornmentProps';
+export * from './InputAdornmentProps';
 export { default as inputAdornmentUnstyledClasses } from './inputAdornmentUnstyledClasses';
-export * from './switchUnstyledClasses';
+export * from './inputAdornmentUnstyledClasses';
