@@ -1,6 +1,5 @@
 import * as React from 'react';
 
-
 export default interface InputAdornmentProps {
   /**
    * The content of the component, normally an `IconButton` or string.

@@ -34,7 +34,7 @@ const InputAdornmentUnstyled = React.forwardRef(function InputAdornment(
   const {
     children,
     className,
-    component = 'div',
+    component,
     disablePointerEvents = false,
     position,
     ...otherProps
